@@ -1,0 +1,225 @@
+﻿A
+NO Absolute Radiance
+NO Aluba
+NO Ambloom
+NO Armoured Squit
+NO Aspid Hatchling
+NO Aspid Hunter
+NO Aspid Mother
+
+B
+NO Baldur
+NO Battle Obble
+NO Belfly
+NO Bluggsac
+NO Boofly
+DONE Broken Vessel
+DONE Brooding Mawlek
+DONE Brooding Mawlek (Colosseum)
+DONE Brothers Oro & Mato
+
+C
+NO Carver Hatcher
+NO Charged Lumafly
+NO Collector
+NO Corpse Creeper
+NO Cowardly Husk
+NO Crawlid
+NO Crystal Crawler
+NO Crystal Guardian
+NO Crystal Hunter
+NO Crystallised Husk
+
+D
+NO Death Loodle
+NO Deephunter
+NO Deepling
+NO Dirtcarver
+NO Dung Defender
+NO Duranda
+NO Durandoo
+
+E
+NO Elder Baldur
+NO Elder Hu
+NO Enraged Guardian
+NO Entombed Husk
+
+F
+NO Failed Champion
+NO False Knight
+NO Fluke Larva
+NO Flukefey
+NO Flukemarm
+NO Flukemon
+NO Flukemunga
+NO Folly
+NO Fool Eater
+NO Fungified Husk
+NO Fungling
+NO Fungoon
+NO Furious Vengefly
+
+G
+NO Galien
+NO Garpede
+NO Glimback
+NO Gluttonous Husk
+NO Goam
+DONE God Tamer
+NO Gorb
+NO Gorgeous Husk
+NO Great Hopper
+DONE Great Husk Sentry
+DONE Great Nailsage Sly
+NO Grey Prince Zote
+DONE Grimm
+NO Grimmkin Master
+NO Grimmkin Nightmare
+NO Grimmkin Novice
+NO Grub Mimic
+NO Gruz Mother
+NO Gruzzer
+NO Gulka
+
+H
+DONE Heavy Fool
+DONE Heavy Sentry
+NO Hive Guardian
+DONE Hive Knight
+NO Hive Soldier
+NO Hiveling
+DONE Hollow Knight
+NO Hopper
+NO Hopping Zoteling
+NO Hornet Protector
+DONE Hornet Sentinel
+NO Hunter
+NO Husk Bully
+NO Husk Dandy
+NO Husk Guard
+NO Husk Hive
+NO Husk Hornhead
+DONE Husk Miner
+DONE Husk Sentry
+DONE Husk Warrior
+NO Hwurmp
+
+I
+NO Infected Balloon
+
+K
+DONE Kingsmould
+
+L
+NO Lance Sentry
+NO Leaping Husk
+NO Lesser Mawlek
+NO Lifeseed
+NO Lightseed
+NO Little Weaver
+NO Loodle
+DONE Lost Kin
+
+M
+NO Maggot
+NO Mantis Lords
+NO Mantis Petra
+DONE Mantis Traitor
+DONE Mantis Warrior
+NO Mantis Youth
+NO Markoth
+NO Marmu
+NO Maskfly
+NO Massive Moss Charger
+NO Mawlurk
+NO Menderbug
+NO Mistake
+NO Moss Charger
+DONE Moss Knight
+NO Mosscreep
+NO Mossfly
+NO Mosskin
+NO Mossy Vagabond
+DONE Myla
+
+N
+DONE Nightmare King Grimm
+NO No Eyes
+NO Nosk
+
+O
+NO Obble
+NO Oblobbles
+NO Ooma
+
+P
+DONE Paintmaster Sheo
+NO Pale Lurker
+NO Pilflip
+NO Primal Aspid
+DONE Pure Vessel
+
+R
+NO Radiance
+DONE Revek (Parriable, but I won't make him killable)
+NO Royal Retainer
+
+S
+DONE Shade
+NO Shadow Creeper
+NO Shardmite
+NO Sharp Baldur
+DONE Shielded Fool
+NO Shrumal Ogre
+NO Shrumal Warrior
+NO Shrumeling
+NO Sibling
+NO Sisters of Battle
+NO Slobbering Husk
+NO Soul Master
+NO Soul Twister
+NO Soul Tyrant
+DONE Soul Warrior
+NO Spiny Husk
+NO Sporg
+NO Squit
+DONE Stalking Devout
+DONE Sturdy Fool
+
+T
+NO Tiktik
+NO Tiso
+DONE Traitor Lord
+
+U
+NO Uoma
+NO Uumuu
+
+V
+NO Vengefly
+NO Vengefly King
+NO Violent Husk
+NO Void Tendrils
+NO Volatile Gruzzer
+NO Volatile Mosskin
+NO Volatile Zoteling
+NO Volt Twister
+
+W
+NO Wandering Husk
+DONE Watcher Knight
+NO White Defender
+DONE Winged Fool
+NO Winged Nosk
+DONE Winged Sentry
+NO Winged Zoteling
+NO Wingmould
+
+X
+NO Xero
+
+Z
+NO Zote
+
+TEST ENTIRE ETERNAL ORDAEL

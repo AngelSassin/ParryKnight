@@ -1,0 +1,74 @@
+﻿Charm Ideas
+
+
+DONE
+Grubberfly's Elegy
+Imbues weapons with a holy strength. When the bearer is at full health, they will fire beams of white-hot energy from their nail.
+DISALLOW ANY ENEMIES TO TAKE DAMAGE.
+
+DONE
+Fragile Strength
+Strengthens the bearer, increasing the damage they deal to enemies with their nail.
+This charm is fragile, and will break if its bearer is killed.
+ADD 1.5x MULTIPLIER TO PARRY DAMAGE
+
+DONE
+Unbreakable Strength
+Strengthens the bearer, increasing the damage they deal to enemies with their nail.
+This charm is unbreakable.
+ADD 1.5x MULTIPLIER TO PARRY DAMAGE
+
+DONE
+Fury of the Fallen
+When close to death, the bearer's strength will increase.
+ADD 1.75x MULTIPLIER TO PARRY DAMAGE
+
+DONE
+Thorns of Agony
+When taking damage, sprout thorny vines that damage nearby foes.
+DONT ALLOW ANY ENEMIES TO BE HIT.
+
+DONE
+Sharp Shadow
+When using Shadow Dash, the bearer's body will sharpen and damage enemies.
+DONT ALLOW ANY ENEMIES TO BE HIT.
+
+DONE
+Weaversong
+Summons weaverlings to give the lonely bearer some companionship and protection.
+DONT ALLOW ANY ENEMIES TO BE HIT.
+
+DONE
+Grimmchild
+Worn by those who take part in the Grimm Troupe's Ritual. The bearer must seek the Grimmkin and collect their flames. Uncollected flames will appear on the bearer's map.
+DONT ALLOW ANY ENEMIES TO BE HIT.
+
+DONE
+Nailmaster's Glory
+Increases the bearer's Mastery of Nail Arts, allowing them to focus their power faster and unleash arts sooner.
+WITH THIS CHARM, NAIL ARTS DO 3x SOUL GAIN.
+
+DONE
+Flukenest
+Transforms the Vengeful Spirit spell into a horde of volatile baby flukes.
+DONT ALLOW ANY ENEMIES TO BE HURT.
+
+DONE
+Dreamshield
+Conjures a shield that follows the bearer and attempts to protect them.
+DONT ALLOW ENEMIES TO TAKE DAMAGE
+
+DONE
+Defender's Crest
+Causes the bearer to emit a heroic odour.
+DONT ALLOW ANY ENEMIES TO BE HIT.
+
+DONE
+Spore Shroom
+When focusing SOUL, emit a spore cloud that slowly damages enemies.
+DONT ALLOW ANY ENEMIES TO BE HIT.
+
+DONE
+Glowing Womb
+Drains the SOUL of its bearer and uses it to birth hatchlings.
+DONT ALLOW ANY ENEMIES TO BE HIT BY MINIONS.
