@@ -19,7 +19,6 @@ The following enemies are parryable, meaning at least one of their attacks can b
 - God Tamer
 - Great Husk Sentry
 - Great Nailsage Sly (except in phase 2)
-- Grimm
 - Heavy Fool
 - Heavy Sentry
 - Hive Knight
@@ -43,6 +42,7 @@ The following enemies are parryable, meaning at least one of their attacks can b
 - Stalking Devout
 - Sturdy Fool
 - Traitor Lord
+- Troupe Master Grimm
 - Watcher Knights
 - Winged Fool
 - Winged Sentry
