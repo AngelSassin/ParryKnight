@@ -62,6 +62,7 @@ namespace ParryKnight
                 if (name.Contains("("))
                     name = name.Substring(0, name.IndexOf("(")).Trim();
                 PlayerData pd = PlayerData.instance;
+
                 if (hitInstance.AttackType.Equals(AttackTypes.Nail) && ( // Nail Arts
                         hitInstance.Source.name.Equals("Hit L") ||
                         hitInstance.Source.name.Equals("Hit R") ||
@@ -245,11 +246,16 @@ namespace ParryKnight
             ModHooks.Instance.BeforeSceneLoadHook += BeforeSceneLoad;
             On.PlayMakerFSM.OnEnable += OnFsmEnable;
             On.SpellFluke.DoDamage += OnFlukeDamage;
+            On.KnightHatchling.Spawn += OnHatchlingSpawn;
             ModHooks.Instance.LanguageGetHook += LanguageGet;
-
             Log("Initialized");
         }
 
+        private System.Collections.IEnumerator OnHatchlingSpawn(On.KnightHatchling.orig_Spawn orig, KnightHatchling self)
+        {
+            self.dungExplosionPrefab.SetActive(false);
+            return orig(self);
+        }
 
         private void OnFlukeDamage(On.SpellFluke.orig_DoDamage orig, SpellFluke self, GameObject obj, int recursion, bool burst)
         {
@@ -321,17 +327,8 @@ namespace ParryKnight
             {
                 try
                 {
-                    self.RemoveAction("Blow", 14);
                     self.GetAction<Wait>("Blow", 11).time = 1;
                     self.RemoveAction("Blow", 10);
-                    self.RemoveAction("Blow", 9);
-                    self.RemoveAction("Blow", 8);
-                    self.RemoveAction("Blow", 7);
-                    self.RemoveAction("Blow", 6);
-                    self.RemoveAction("Blow", 5);
-                    self.RemoveAction("Blow", 2);
-                    self.RemoveAction("Blow", 1);
-                    self.RemoveAction("Blow", 0);
                 }
                 catch (IndexOutOfRangeException e)
                 {
@@ -342,17 +339,8 @@ namespace ParryKnight
             {
                 try
                 {
-                    self.RemoveAction("Blow", 14);
-                    self.RemoveAction("Blow", 13);
-                    self.RemoveAction("Blow", 12);
                     self.GetAction<Wait>("Blow", 9).time = 1;
                     self.RemoveAction("Blow", 8);
-                    self.RemoveAction("Blow", 7);
-                    self.RemoveAction("Blow", 6);
-                    self.RemoveAction("Blow", 5);
-                    self.RemoveAction("Blow", 4);
-                    self.RemoveAction("Blow", 1);
-                    self.RemoveAction("Blow", 0);
                 }
                 catch (IndexOutOfRangeException e)
                 {
@@ -363,14 +351,8 @@ namespace ParryKnight
             {
                 try
                 {
-                    self.RemoveAction("Blow", 12);
                     self.GetAction<Wait>("Blow", 9).time = 1;
                     self.RemoveAction("Blow", 8);
-                    self.RemoveAction("Blow", 7);
-                    self.RemoveAction("Blow", 6);
-                    self.RemoveAction("Blow", 5);
-                    self.RemoveAction("Blow", 3);
-                    self.RemoveAction("Blow", 2);
                 }
                 catch (IndexOutOfRangeException e)
                 {
